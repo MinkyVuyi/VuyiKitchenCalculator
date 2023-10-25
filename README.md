@@ -1,1 +1,1 @@
-# VuyiswanCalculator
+# VuyiswaCalculator
