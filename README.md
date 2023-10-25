@@ -1,1 +1,1 @@
-# VuyiKitchenCalculator
+# VuyiswanCalculator
